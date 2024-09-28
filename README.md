@@ -9,7 +9,7 @@ This repository contains the following key files and folders:
 - **`executive_summary.pdf`**: A concise executive summary outlining the key findings, segments, and recommendations based on the analysis.
 - **`data_analysis_report.pdf`**: The full report detailing the data analysis process, including the EDA, user metrics aggregation, and final segmentation outcomes.
 - **`presentation_video.mp4`**: A 5-minute video presentation summarizing the main insights and recommendations, recorded using Loom.
-- **`notebook.ipynb`**: The complete Jupyter notebook containing the code used for data analysis, EDA, and segmentation.
+- **`traveltide_notebook.ipynb`**: The complete Jupyter notebook containing the code used for data analysis, EDA, and segmentation.
 - **`user_segments.csv`**: A CSV file that contains all users with their assigned segment and corresponding recommended perk.
 - **`README.md`**: This file provides an overview of the project, its objectives, and the contents of the repository.
 
