@@ -38,3 +38,6 @@ Our analysis identified seven distinct customer segments for more targeted marke
 - Further analysis should be conducted on other variables such as booking seasonality, user demographics, and trip purpose to refine targeting.
 
 This segmentation and perk assignment will help refine marketing strategies, but ongoing testing and optimization are crucial to ensure maximum effectiveness.
+
+#### **For more detailed report, video presentation, and code please visit: https://github.com/MaikeGo/Traveltide-Customer-Segmentation**
+
