@@ -1,7 +1,7 @@
 ## **Customer Segmentation Analysis Report**
 
 ### **1. Introduction**
-The goal of this project was to identify distinct customer segments for the **Traveltide website**, enabling more targeted marketing strategies to improve customer retention and generate repeat business. Our approach combined exploratory data analysis (EDA) with user behavior metrics to create actionable segments.
+The goal of this project was to identify distinct customer segments for the **ficitonal Traveltide website**, enabling more targeted marketing strategies to improve customer retention and generate repeat business. Our approach combined exploratory data analysis (EDA) with user behavior metrics to create actionable segments.
 
 ### **2. Data Overview and Cohort Filtering**
 - The data consisted of sessions from the **Traveltide website**, capturing user interactions such as bookings, searches, and cancellations over multiple years.
